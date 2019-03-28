@@ -1,0 +1,2021 @@
+{
+    "推荐": [
+        {
+            "icon": "https://file.ulvjia.com/area/长沙.jpg?x-oss-process=style/area_thumb",
+            "short_name": "长沙",
+            "id": "430100"
+        }
+    ],
+    "直辖市": [
+        {
+            "icon": "https://file.ulvjia.com/area/北京.jpg?x-oss-process=style/area_thumb",
+            "short_name": "北京",
+            "id": "110100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/天津.jpg?x-oss-process=style/area_thumb",
+            "short_name": "天津",
+            "id": "120100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/上海.jpg?x-oss-process=style/area_thumb",
+            "short_name": "上海",
+            "id": "310100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/重庆.jpg?x-oss-process=style/area_thumb",
+            "short_name": "重庆",
+            "id": "500100"
+        }
+    ],
+    "河北": [
+        {
+            "icon": "https://file.ulvjia.com/area/石家庄.jpg?x-oss-process=style/area_thumb",
+            "short_name": "石家庄",
+            "id": "130100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/唐山.jpg?x-oss-process=style/area_thumb",
+            "short_name": "唐山",
+            "id": "130200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/秦皇岛.jpg?x-oss-process=style/area_thumb",
+            "short_name": "秦皇岛",
+            "id": "130300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/邯郸.jpg?x-oss-process=style/area_thumb",
+            "short_name": "邯郸",
+            "id": "130400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/邢台.jpg?x-oss-process=style/area_thumb",
+            "short_name": "邢台",
+            "id": "130500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/保定.jpg?x-oss-process=style/area_thumb",
+            "short_name": "保定",
+            "id": "130600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/张家口.jpg?x-oss-process=style/area_thumb",
+            "short_name": "张家口",
+            "id": "130700"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/承德.jpg?x-oss-process=style/area_thumb",
+            "short_name": "承德",
+            "id": "130800"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/沧州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "沧州",
+            "id": "130900"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/廊坊.jpg?x-oss-process=style/area_thumb",
+            "short_name": "廊坊",
+            "id": "131000"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/衡水.jpg?x-oss-process=style/area_thumb",
+            "short_name": "衡水",
+            "id": "131100"
+        }
+    ],
+    "山西": [
+        {
+            "icon": "https://file.ulvjia.com/area/太原.jpg?x-oss-process=style/area_thumb",
+            "short_name": "太原",
+            "id": "140100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/大同.jpg?x-oss-process=style/area_thumb",
+            "short_name": "大同",
+            "id": "140200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/阳泉.jpg?x-oss-process=style/area_thumb",
+            "short_name": "阳泉",
+            "id": "140300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/长治.jpg?x-oss-process=style/area_thumb",
+            "short_name": "长治",
+            "id": "140400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/晋城.jpg?x-oss-process=style/area_thumb",
+            "short_name": "晋城",
+            "id": "140500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/朔州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "朔州",
+            "id": "140600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/晋中.jpg?x-oss-process=style/area_thumb",
+            "short_name": "晋中",
+            "id": "140700"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/运城.jpg?x-oss-process=style/area_thumb",
+            "short_name": "运城",
+            "id": "140800"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/忻州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "忻州",
+            "id": "140900"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/临汾.jpg?x-oss-process=style/area_thumb",
+            "short_name": "临汾",
+            "id": "141000"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/吕梁.jpg?x-oss-process=style/area_thumb",
+            "short_name": "吕梁",
+            "id": "141100"
+        }
+    ],
+    "内蒙古": [
+        {
+            "icon": "https://file.ulvjia.com/area/呼和浩特.jpg?x-oss-process=style/area_thumb",
+            "short_name": "呼和浩特",
+            "id": "150100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/包头.jpg?x-oss-process=style/area_thumb",
+            "short_name": "包头",
+            "id": "150200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/乌海.jpg?x-oss-process=style/area_thumb",
+            "short_name": "乌海",
+            "id": "150300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/赤峰.jpg?x-oss-process=style/area_thumb",
+            "short_name": "赤峰",
+            "id": "150400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/通辽.jpg?x-oss-process=style/area_thumb",
+            "short_name": "通辽",
+            "id": "150500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/鄂尔多斯.jpg?x-oss-process=style/area_thumb",
+            "short_name": "鄂尔多斯",
+            "id": "150600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/呼伦贝尔.jpg?x-oss-process=style/area_thumb",
+            "short_name": "呼伦贝尔",
+            "id": "150700"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/巴彦淖尔.jpg?x-oss-process=style/area_thumb",
+            "short_name": "巴彦淖尔",
+            "id": "150800"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/乌兰察布.jpg?x-oss-process=style/area_thumb",
+            "short_name": "乌兰察布",
+            "id": "150900"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/兴安.jpg?x-oss-process=style/area_thumb",
+            "short_name": "兴安",
+            "id": "152200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/锡林郭勒.jpg?x-oss-process=style/area_thumb",
+            "short_name": "锡林郭勒",
+            "id": "152500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/阿拉善.jpg?x-oss-process=style/area_thumb",
+            "short_name": "阿拉善",
+            "id": "152900"
+        }
+    ],
+    "辽宁": [
+        {
+            "icon": "https://file.ulvjia.com/area/沈阳.jpg?x-oss-process=style/area_thumb",
+            "short_name": "沈阳",
+            "id": "210100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/大连.jpg?x-oss-process=style/area_thumb",
+            "short_name": "大连",
+            "id": "210200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/鞍山.jpg?x-oss-process=style/area_thumb",
+            "short_name": "鞍山",
+            "id": "210300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/抚顺.jpg?x-oss-process=style/area_thumb",
+            "short_name": "抚顺",
+            "id": "210400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/本溪.jpg?x-oss-process=style/area_thumb",
+            "short_name": "本溪",
+            "id": "210500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/丹东.jpg?x-oss-process=style/area_thumb",
+            "short_name": "丹东",
+            "id": "210600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/锦州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "锦州",
+            "id": "210700"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/营口.jpg?x-oss-process=style/area_thumb",
+            "short_name": "营口",
+            "id": "210800"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/阜新.jpg?x-oss-process=style/area_thumb",
+            "short_name": "阜新",
+            "id": "210900"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/辽阳.jpg?x-oss-process=style/area_thumb",
+            "short_name": "辽阳",
+            "id": "211000"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/盘锦.jpg?x-oss-process=style/area_thumb",
+            "short_name": "盘锦",
+            "id": "211100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/铁岭.jpg?x-oss-process=style/area_thumb",
+            "short_name": "铁岭",
+            "id": "211200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/朝阳.jpg?x-oss-process=style/area_thumb",
+            "short_name": "朝阳",
+            "id": "211300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/葫芦岛.jpg?x-oss-process=style/area_thumb",
+            "short_name": "葫芦岛",
+            "id": "211400"
+        }
+    ],
+    "吉林": [
+        {
+            "icon": "https://file.ulvjia.com/area/长春.jpg?x-oss-process=style/area_thumb",
+            "short_name": "长春",
+            "id": "220100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/吉林.jpg?x-oss-process=style/area_thumb",
+            "short_name": "吉林",
+            "id": "220200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/四平.jpg?x-oss-process=style/area_thumb",
+            "short_name": "四平",
+            "id": "220300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/辽源.jpg?x-oss-process=style/area_thumb",
+            "short_name": "辽源",
+            "id": "220400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/通化.jpg?x-oss-process=style/area_thumb",
+            "short_name": "通化",
+            "id": "220500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/白山.jpg?x-oss-process=style/area_thumb",
+            "short_name": "白山",
+            "id": "220600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/松原.jpg?x-oss-process=style/area_thumb",
+            "short_name": "松原",
+            "id": "220700"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/白城.jpg?x-oss-process=style/area_thumb",
+            "short_name": "白城",
+            "id": "220800"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/延边朝鲜族.jpg?x-oss-process=style/area_thumb",
+            "short_name": "延边朝鲜族",
+            "id": "222400"
+        }
+    ],
+    "黑龙江": [
+        {
+            "icon": "https://file.ulvjia.com/area/哈尔滨.jpg?x-oss-process=style/area_thumb",
+            "short_name": "哈尔滨",
+            "id": "230100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/齐齐哈尔.jpg?x-oss-process=style/area_thumb",
+            "short_name": "齐齐哈尔",
+            "id": "230200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/鸡西.jpg?x-oss-process=style/area_thumb",
+            "short_name": "鸡西",
+            "id": "230300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/鹤岗.jpg?x-oss-process=style/area_thumb",
+            "short_name": "鹤岗",
+            "id": "230400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/双鸭山.jpg?x-oss-process=style/area_thumb",
+            "short_name": "双鸭山",
+            "id": "230500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/大庆.jpg?x-oss-process=style/area_thumb",
+            "short_name": "大庆",
+            "id": "230600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/伊春.jpg?x-oss-process=style/area_thumb",
+            "short_name": "伊春",
+            "id": "230700"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/佳木斯.jpg?x-oss-process=style/area_thumb",
+            "short_name": "佳木斯",
+            "id": "230800"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/七台河.jpg?x-oss-process=style/area_thumb",
+            "short_name": "七台河",
+            "id": "230900"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/牡丹江.jpg?x-oss-process=style/area_thumb",
+            "short_name": "牡丹江",
+            "id": "231000"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/黑河.jpg?x-oss-process=style/area_thumb",
+            "short_name": "黑河",
+            "id": "231100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/绥化.jpg?x-oss-process=style/area_thumb",
+            "short_name": "绥化",
+            "id": "231200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/大兴安岭.jpg?x-oss-process=style/area_thumb",
+            "short_name": "大兴安岭",
+            "id": "232700"
+        }
+    ],
+    "江苏": [
+        {
+            "icon": "https://file.ulvjia.com/area/南京.jpg?x-oss-process=style/area_thumb",
+            "short_name": "南京",
+            "id": "320100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/无锡.jpg?x-oss-process=style/area_thumb",
+            "short_name": "无锡",
+            "id": "320200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/徐州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "徐州",
+            "id": "320300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/常州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "常州",
+            "id": "320400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/苏州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "苏州",
+            "id": "320500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/南通.jpg?x-oss-process=style/area_thumb",
+            "short_name": "南通",
+            "id": "320600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/连云港.jpg?x-oss-process=style/area_thumb",
+            "short_name": "连云港",
+            "id": "320700"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/淮安.jpg?x-oss-process=style/area_thumb",
+            "short_name": "淮安",
+            "id": "320800"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/盐城.jpg?x-oss-process=style/area_thumb",
+            "short_name": "盐城",
+            "id": "320900"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/扬州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "扬州",
+            "id": "321000"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/镇江.jpg?x-oss-process=style/area_thumb",
+            "short_name": "镇江",
+            "id": "321100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/泰州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "泰州",
+            "id": "321200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/宿迁.jpg?x-oss-process=style/area_thumb",
+            "short_name": "宿迁",
+            "id": "321300"
+        }
+    ],
+    "浙江": [
+        {
+            "icon": "https://file.ulvjia.com/area/杭州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "杭州",
+            "id": "330100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/宁波.jpg?x-oss-process=style/area_thumb",
+            "short_name": "宁波",
+            "id": "330200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/温州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "温州",
+            "id": "330300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/嘉兴.jpg?x-oss-process=style/area_thumb",
+            "short_name": "嘉兴",
+            "id": "330400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/湖州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "湖州",
+            "id": "330500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/绍兴.jpg?x-oss-process=style/area_thumb",
+            "short_name": "绍兴",
+            "id": "330600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/金华.jpg?x-oss-process=style/area_thumb",
+            "short_name": "金华",
+            "id": "330700"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/衢州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "衢州",
+            "id": "330800"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/舟山.jpg?x-oss-process=style/area_thumb",
+            "short_name": "舟山",
+            "id": "330900"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/台州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "台州",
+            "id": "331000"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/丽水.jpg?x-oss-process=style/area_thumb",
+            "short_name": "丽水",
+            "id": "331100"
+        }
+    ],
+    "安徽": [
+        {
+            "icon": "https://file.ulvjia.com/area/合肥.jpg?x-oss-process=style/area_thumb",
+            "short_name": "合肥",
+            "id": "340100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/芜湖.jpg?x-oss-process=style/area_thumb",
+            "short_name": "芜湖",
+            "id": "340200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/蚌埠.jpg?x-oss-process=style/area_thumb",
+            "short_name": "蚌埠",
+            "id": "340300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/淮南.jpg?x-oss-process=style/area_thumb",
+            "short_name": "淮南",
+            "id": "340400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/马鞍山.jpg?x-oss-process=style/area_thumb",
+            "short_name": "马鞍山",
+            "id": "340500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/淮北.jpg?x-oss-process=style/area_thumb",
+            "short_name": "淮北",
+            "id": "340600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/铜陵.jpg?x-oss-process=style/area_thumb",
+            "short_name": "铜陵",
+            "id": "340700"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/安庆.jpg?x-oss-process=style/area_thumb",
+            "short_name": "安庆",
+            "id": "340800"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/黄山.jpg?x-oss-process=style/area_thumb",
+            "short_name": "黄山",
+            "id": "341000"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/滁州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "滁州",
+            "id": "341100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/阜阳.jpg?x-oss-process=style/area_thumb",
+            "short_name": "阜阳",
+            "id": "341200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/宿州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "宿州",
+            "id": "341300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/六安.jpg?x-oss-process=style/area_thumb",
+            "short_name": "六安",
+            "id": "341500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/亳州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "亳州",
+            "id": "341600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/池州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "池州",
+            "id": "341700"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/宣城.jpg?x-oss-process=style/area_thumb",
+            "short_name": "宣城",
+            "id": "341800"
+        }
+    ],
+    "福建": [
+        {
+            "icon": "https://file.ulvjia.com/area/福州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "福州",
+            "id": "350100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/厦门.jpg?x-oss-process=style/area_thumb",
+            "short_name": "厦门",
+            "id": "350200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/莆田.jpg?x-oss-process=style/area_thumb",
+            "short_name": "莆田",
+            "id": "350300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/三明.jpg?x-oss-process=style/area_thumb",
+            "short_name": "三明",
+            "id": "350400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/泉州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "泉州",
+            "id": "350500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/漳州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "漳州",
+            "id": "350600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/南平.jpg?x-oss-process=style/area_thumb",
+            "short_name": "南平",
+            "id": "350700"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/龙岩.jpg?x-oss-process=style/area_thumb",
+            "short_name": "龙岩",
+            "id": "350800"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/宁德.jpg?x-oss-process=style/area_thumb",
+            "short_name": "宁德",
+            "id": "350900"
+        }
+    ],
+    "江西": [
+        {
+            "icon": "https://file.ulvjia.com/area/南昌.jpg?x-oss-process=style/area_thumb",
+            "short_name": "南昌",
+            "id": "360100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/景德镇.jpg?x-oss-process=style/area_thumb",
+            "short_name": "景德镇",
+            "id": "360200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/萍乡.jpg?x-oss-process=style/area_thumb",
+            "short_name": "萍乡",
+            "id": "360300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/九江.jpg?x-oss-process=style/area_thumb",
+            "short_name": "九江",
+            "id": "360400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/新余.jpg?x-oss-process=style/area_thumb",
+            "short_name": "新余",
+            "id": "360500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/鹰潭.jpg?x-oss-process=style/area_thumb",
+            "short_name": "鹰潭",
+            "id": "360600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/赣州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "赣州",
+            "id": "360700"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/吉安.jpg?x-oss-process=style/area_thumb",
+            "short_name": "吉安",
+            "id": "360800"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/宜春.jpg?x-oss-process=style/area_thumb",
+            "short_name": "宜春",
+            "id": "360900"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/抚州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "抚州",
+            "id": "361000"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/上饶.jpg?x-oss-process=style/area_thumb",
+            "short_name": "上饶",
+            "id": "361100"
+        }
+    ],
+    "山东": [
+        {
+            "icon": "https://file.ulvjia.com/area/济南.jpg?x-oss-process=style/area_thumb",
+            "short_name": "济南",
+            "id": "370100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/青岛.jpg?x-oss-process=style/area_thumb",
+            "short_name": "青岛",
+            "id": "370200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/淄博.jpg?x-oss-process=style/area_thumb",
+            "short_name": "淄博",
+            "id": "370300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/枣庄.jpg?x-oss-process=style/area_thumb",
+            "short_name": "枣庄",
+            "id": "370400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/东营.jpg?x-oss-process=style/area_thumb",
+            "short_name": "东营",
+            "id": "370500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/烟台.jpg?x-oss-process=style/area_thumb",
+            "short_name": "烟台",
+            "id": "370600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/潍坊.jpg?x-oss-process=style/area_thumb",
+            "short_name": "潍坊",
+            "id": "370700"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/济宁.jpg?x-oss-process=style/area_thumb",
+            "short_name": "济宁",
+            "id": "370800"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/泰安.jpg?x-oss-process=style/area_thumb",
+            "short_name": "泰安",
+            "id": "370900"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/威海.jpg?x-oss-process=style/area_thumb",
+            "short_name": "威海",
+            "id": "371000"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/日照.jpg?x-oss-process=style/area_thumb",
+            "short_name": "日照",
+            "id": "371100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/莱芜.jpg?x-oss-process=style/area_thumb",
+            "short_name": "莱芜",
+            "id": "371200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/临沂.jpg?x-oss-process=style/area_thumb",
+            "short_name": "临沂",
+            "id": "371300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/德州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "德州",
+            "id": "371400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/聊城.jpg?x-oss-process=style/area_thumb",
+            "short_name": "聊城",
+            "id": "371500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/滨州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "滨州",
+            "id": "371600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/菏泽.jpg?x-oss-process=style/area_thumb",
+            "short_name": "菏泽",
+            "id": "371700"
+        }
+    ],
+    "河南": [
+        {
+            "icon": "https://file.ulvjia.com/area/郑州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "郑州",
+            "id": "410100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/开封.jpg?x-oss-process=style/area_thumb",
+            "short_name": "开封",
+            "id": "410200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/洛阳.jpg?x-oss-process=style/area_thumb",
+            "short_name": "洛阳",
+            "id": "410300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/平顶山.jpg?x-oss-process=style/area_thumb",
+            "short_name": "平顶山",
+            "id": "410400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/安阳.jpg?x-oss-process=style/area_thumb",
+            "short_name": "安阳",
+            "id": "410500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/鹤壁.jpg?x-oss-process=style/area_thumb",
+            "short_name": "鹤壁",
+            "id": "410600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/新乡.jpg?x-oss-process=style/area_thumb",
+            "short_name": "新乡",
+            "id": "410700"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/焦作.jpg?x-oss-process=style/area_thumb",
+            "short_name": "焦作",
+            "id": "410800"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/济源.jpg?x-oss-process=style/area_thumb",
+            "short_name": "济源",
+            "id": "410881"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/濮阳.jpg?x-oss-process=style/area_thumb",
+            "short_name": "濮阳",
+            "id": "410900"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/许昌.jpg?x-oss-process=style/area_thumb",
+            "short_name": "许昌",
+            "id": "411000"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/漯河.jpg?x-oss-process=style/area_thumb",
+            "short_name": "漯河",
+            "id": "411100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/三门峡.jpg?x-oss-process=style/area_thumb",
+            "short_name": "三门峡",
+            "id": "411200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/南阳.jpg?x-oss-process=style/area_thumb",
+            "short_name": "南阳",
+            "id": "411300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/商丘.jpg?x-oss-process=style/area_thumb",
+            "short_name": "商丘",
+            "id": "411400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/信阳.jpg?x-oss-process=style/area_thumb",
+            "short_name": "信阳",
+            "id": "411500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/周口.jpg?x-oss-process=style/area_thumb",
+            "short_name": "周口",
+            "id": "411600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/驻马店.jpg?x-oss-process=style/area_thumb",
+            "short_name": "驻马店",
+            "id": "411700"
+        }
+    ],
+    "湖北": [
+        {
+            "icon": "https://file.ulvjia.com/area/武汉.jpg?x-oss-process=style/area_thumb",
+            "short_name": "武汉",
+            "id": "420100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/黄石.jpg?x-oss-process=style/area_thumb",
+            "short_name": "黄石",
+            "id": "420200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/十堰.jpg?x-oss-process=style/area_thumb",
+            "short_name": "十堰",
+            "id": "420300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/宜昌.jpg?x-oss-process=style/area_thumb",
+            "short_name": "宜昌",
+            "id": "420500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/襄阳.jpg?x-oss-process=style/area_thumb",
+            "short_name": "襄阳",
+            "id": "420600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/鄂州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "鄂州",
+            "id": "420700"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/荆门.jpg?x-oss-process=style/area_thumb",
+            "short_name": "荆门",
+            "id": "420800"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/孝感.jpg?x-oss-process=style/area_thumb",
+            "short_name": "孝感",
+            "id": "420900"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/荆州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "荆州",
+            "id": "421000"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/黄冈.jpg?x-oss-process=style/area_thumb",
+            "short_name": "黄冈",
+            "id": "421100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/咸宁.jpg?x-oss-process=style/area_thumb",
+            "short_name": "咸宁",
+            "id": "421200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/随州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "随州",
+            "id": "421300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/恩施.jpg?x-oss-process=style/area_thumb",
+            "short_name": "恩施",
+            "id": "422800"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/仙桃.jpg?x-oss-process=style/area_thumb",
+            "short_name": "仙桃",
+            "id": "429004"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/潜江.jpg?x-oss-process=style/area_thumb",
+            "short_name": "潜江",
+            "id": "429005"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/天门.jpg?x-oss-process=style/area_thumb",
+            "short_name": "天门",
+            "id": "429006"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/神农架.jpg?x-oss-process=style/area_thumb",
+            "short_name": "神农架",
+            "id": "429021"
+        }
+    ],
+    "湖南": [
+        {
+            "icon": "https://file.ulvjia.com/area/长沙.jpg?x-oss-process=style/area_thumb",
+            "short_name": "长沙",
+            "id": "430100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/株洲.jpg?x-oss-process=style/area_thumb",
+            "short_name": "株洲",
+            "id": "430200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/湘潭.jpg?x-oss-process=style/area_thumb",
+            "short_name": "湘潭",
+            "id": "430300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/衡阳.jpg?x-oss-process=style/area_thumb",
+            "short_name": "衡阳",
+            "id": "430400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/邵阳.jpg?x-oss-process=style/area_thumb",
+            "short_name": "邵阳",
+            "id": "430500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/岳阳.jpg?x-oss-process=style/area_thumb",
+            "short_name": "岳阳",
+            "id": "430600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/常德.jpg?x-oss-process=style/area_thumb",
+            "short_name": "常德",
+            "id": "430700"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/张家界.jpg?x-oss-process=style/area_thumb",
+            "short_name": "张家界",
+            "id": "430800"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/益阳.jpg?x-oss-process=style/area_thumb",
+            "short_name": "益阳",
+            "id": "430900"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/郴州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "郴州",
+            "id": "431000"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/永州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "永州",
+            "id": "431100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/怀化.jpg?x-oss-process=style/area_thumb",
+            "short_name": "怀化",
+            "id": "431200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/娄底.jpg?x-oss-process=style/area_thumb",
+            "short_name": "娄底",
+            "id": "431300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/湘西.jpg?x-oss-process=style/area_thumb",
+            "short_name": "湘西",
+            "id": "433100"
+        }
+    ],
+    "广东": [
+        {
+            "icon": "https://file.ulvjia.com/area/广州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "广州",
+            "id": "440100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/韶关.jpg?x-oss-process=style/area_thumb",
+            "short_name": "韶关",
+            "id": "440200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/深圳.jpg?x-oss-process=style/area_thumb",
+            "short_name": "深圳",
+            "id": "440300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/珠海.jpg?x-oss-process=style/area_thumb",
+            "short_name": "珠海",
+            "id": "440400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/汕头.jpg?x-oss-process=style/area_thumb",
+            "short_name": "汕头",
+            "id": "440500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/佛山.jpg?x-oss-process=style/area_thumb",
+            "short_name": "佛山",
+            "id": "440600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/江门.jpg?x-oss-process=style/area_thumb",
+            "short_name": "江门",
+            "id": "440700"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/湛江.jpg?x-oss-process=style/area_thumb",
+            "short_name": "湛江",
+            "id": "440800"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/茂名.jpg?x-oss-process=style/area_thumb",
+            "short_name": "茂名",
+            "id": "440900"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/肇庆.jpg?x-oss-process=style/area_thumb",
+            "short_name": "肇庆",
+            "id": "441200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/惠州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "惠州",
+            "id": "441300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/梅州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "梅州",
+            "id": "441400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/汕尾.jpg?x-oss-process=style/area_thumb",
+            "short_name": "汕尾",
+            "id": "441500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/河源.jpg?x-oss-process=style/area_thumb",
+            "short_name": "河源",
+            "id": "441600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/阳江.jpg?x-oss-process=style/area_thumb",
+            "short_name": "阳江",
+            "id": "441700"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/清远.jpg?x-oss-process=style/area_thumb",
+            "short_name": "清远",
+            "id": "441800"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/东莞.jpg?x-oss-process=style/area_thumb",
+            "short_name": "东莞",
+            "id": "441900"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/中山.jpg?x-oss-process=style/area_thumb",
+            "short_name": "中山",
+            "id": "442000"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/东沙.jpg?x-oss-process=style/area_thumb",
+            "short_name": "东沙",
+            "id": "442101"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/潮州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "潮州",
+            "id": "445100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/揭阳.jpg?x-oss-process=style/area_thumb",
+            "short_name": "揭阳",
+            "id": "445200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/云浮.jpg?x-oss-process=style/area_thumb",
+            "short_name": "云浮",
+            "id": "445300"
+        }
+    ],
+    "广西": [
+        {
+            "icon": "https://file.ulvjia.com/area/南宁.jpg?x-oss-process=style/area_thumb",
+            "short_name": "南宁",
+            "id": "450100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/柳州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "柳州",
+            "id": "450200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/桂林.jpg?x-oss-process=style/area_thumb",
+            "short_name": "桂林",
+            "id": "450300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/梧州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "梧州",
+            "id": "450400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/北海.jpg?x-oss-process=style/area_thumb",
+            "short_name": "北海",
+            "id": "450500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/防城港.jpg?x-oss-process=style/area_thumb",
+            "short_name": "防城港",
+            "id": "450600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/钦州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "钦州",
+            "id": "450700"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/贵港.jpg?x-oss-process=style/area_thumb",
+            "short_name": "贵港",
+            "id": "450800"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/玉林.jpg?x-oss-process=style/area_thumb",
+            "short_name": "玉林",
+            "id": "450900"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/百色.jpg?x-oss-process=style/area_thumb",
+            "short_name": "百色",
+            "id": "451000"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/贺州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "贺州",
+            "id": "451100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/河池.jpg?x-oss-process=style/area_thumb",
+            "short_name": "河池",
+            "id": "451200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/来宾.jpg?x-oss-process=style/area_thumb",
+            "short_name": "来宾",
+            "id": "451300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/崇左.jpg?x-oss-process=style/area_thumb",
+            "short_name": "崇左",
+            "id": "451400"
+        }
+    ],
+    "海南": [
+        {
+            "icon": "https://file.ulvjia.com/area/海口.jpg?x-oss-process=style/area_thumb",
+            "short_name": "海口",
+            "id": "460100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/三亚.jpg?x-oss-process=style/area_thumb",
+            "short_name": "三亚",
+            "id": "460200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/三沙.jpg?x-oss-process=style/area_thumb",
+            "short_name": "三沙",
+            "id": "460300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/五指山.jpg?x-oss-process=style/area_thumb",
+            "short_name": "五指山",
+            "id": "469001"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/琼海.jpg?x-oss-process=style/area_thumb",
+            "short_name": "琼海",
+            "id": "469002"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/儋州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "儋州",
+            "id": "469003"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/文昌.jpg?x-oss-process=style/area_thumb",
+            "short_name": "文昌",
+            "id": "469005"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/万宁.jpg?x-oss-process=style/area_thumb",
+            "short_name": "万宁",
+            "id": "469006"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/东方.jpg?x-oss-process=style/area_thumb",
+            "short_name": "东方",
+            "id": "469007"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/定安.jpg?x-oss-process=style/area_thumb",
+            "short_name": "定安",
+            "id": "469025"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/屯昌.jpg?x-oss-process=style/area_thumb",
+            "short_name": "屯昌",
+            "id": "469026"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/澄迈.jpg?x-oss-process=style/area_thumb",
+            "short_name": "澄迈",
+            "id": "469027"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/临高.jpg?x-oss-process=style/area_thumb",
+            "short_name": "临高",
+            "id": "469028"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/白沙.jpg?x-oss-process=style/area_thumb",
+            "short_name": "白沙",
+            "id": "469030"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/昌江.jpg?x-oss-process=style/area_thumb",
+            "short_name": "昌江",
+            "id": "469031"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/乐东.jpg?x-oss-process=style/area_thumb",
+            "short_name": "乐东",
+            "id": "469033"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/陵水.jpg?x-oss-process=style/area_thumb",
+            "short_name": "陵水",
+            "id": "469034"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/保亭.jpg?x-oss-process=style/area_thumb",
+            "short_name": "保亭",
+            "id": "469035"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/琼中.jpg?x-oss-process=style/area_thumb",
+            "short_name": "琼中",
+            "id": "469036"
+        }
+    ],
+    "四川": [
+        {
+            "icon": "https://file.ulvjia.com/area/成都.jpg?x-oss-process=style/area_thumb",
+            "short_name": "成都",
+            "id": "510100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/自贡.jpg?x-oss-process=style/area_thumb",
+            "short_name": "自贡",
+            "id": "510300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/攀枝花.jpg?x-oss-process=style/area_thumb",
+            "short_name": "攀枝花",
+            "id": "510400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/泸州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "泸州",
+            "id": "510500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/德阳.jpg?x-oss-process=style/area_thumb",
+            "short_name": "德阳",
+            "id": "510600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/绵阳.jpg?x-oss-process=style/area_thumb",
+            "short_name": "绵阳",
+            "id": "510700"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/广元.jpg?x-oss-process=style/area_thumb",
+            "short_name": "广元",
+            "id": "510800"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/遂宁.jpg?x-oss-process=style/area_thumb",
+            "short_name": "遂宁",
+            "id": "510900"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/内江.jpg?x-oss-process=style/area_thumb",
+            "short_name": "内江",
+            "id": "511000"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/乐山.jpg?x-oss-process=style/area_thumb",
+            "short_name": "乐山",
+            "id": "511100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/南充.jpg?x-oss-process=style/area_thumb",
+            "short_name": "南充",
+            "id": "511300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/眉山.jpg?x-oss-process=style/area_thumb",
+            "short_name": "眉山",
+            "id": "511400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/宜宾.jpg?x-oss-process=style/area_thumb",
+            "short_name": "宜宾",
+            "id": "511500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/广安.jpg?x-oss-process=style/area_thumb",
+            "short_name": "广安",
+            "id": "511600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/达州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "达州",
+            "id": "511700"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/雅安.jpg?x-oss-process=style/area_thumb",
+            "short_name": "雅安",
+            "id": "511800"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/巴中.jpg?x-oss-process=style/area_thumb",
+            "short_name": "巴中",
+            "id": "511900"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/资阳.jpg?x-oss-process=style/area_thumb",
+            "short_name": "资阳",
+            "id": "512000"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/阿坝.jpg?x-oss-process=style/area_thumb",
+            "short_name": "阿坝",
+            "id": "513200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/甘孜.jpg?x-oss-process=style/area_thumb",
+            "short_name": "甘孜",
+            "id": "513300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/凉山.jpg?x-oss-process=style/area_thumb",
+            "short_name": "凉山",
+            "id": "513400"
+        }
+    ],
+    "贵州": [
+        {
+            "icon": "https://file.ulvjia.com/area/贵阳.jpg?x-oss-process=style/area_thumb",
+            "short_name": "贵阳",
+            "id": "520100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/六盘水.jpg?x-oss-process=style/area_thumb",
+            "short_name": "六盘水",
+            "id": "520200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/遵义.jpg?x-oss-process=style/area_thumb",
+            "short_name": "遵义",
+            "id": "520300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/安顺.jpg?x-oss-process=style/area_thumb",
+            "short_name": "安顺",
+            "id": "520400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/铜仁.jpg?x-oss-process=style/area_thumb",
+            "short_name": "铜仁",
+            "id": "522200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/黔西南.jpg?x-oss-process=style/area_thumb",
+            "short_name": "黔西南",
+            "id": "522300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/毕节.jpg?x-oss-process=style/area_thumb",
+            "short_name": "毕节",
+            "id": "522400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/黔东南.jpg?x-oss-process=style/area_thumb",
+            "short_name": "黔东南",
+            "id": "522600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/黔南.jpg?x-oss-process=style/area_thumb",
+            "short_name": "黔南",
+            "id": "522700"
+        }
+    ],
+    "云南": [
+        {
+            "icon": "https://file.ulvjia.com/area/昆明.jpg?x-oss-process=style/area_thumb",
+            "short_name": "昆明",
+            "id": "530100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/曲靖.jpg?x-oss-process=style/area_thumb",
+            "short_name": "曲靖",
+            "id": "530300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/玉溪.jpg?x-oss-process=style/area_thumb",
+            "short_name": "玉溪",
+            "id": "530400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/保山.jpg?x-oss-process=style/area_thumb",
+            "short_name": "保山",
+            "id": "530500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/昭通.jpg?x-oss-process=style/area_thumb",
+            "short_name": "昭通",
+            "id": "530600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/丽江.jpg?x-oss-process=style/area_thumb",
+            "short_name": "丽江",
+            "id": "530700"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/普洱.jpg?x-oss-process=style/area_thumb",
+            "short_name": "普洱",
+            "id": "530800"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/临沧.jpg?x-oss-process=style/area_thumb",
+            "short_name": "临沧",
+            "id": "530900"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/楚雄.jpg?x-oss-process=style/area_thumb",
+            "short_name": "楚雄",
+            "id": "532300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/红河.jpg?x-oss-process=style/area_thumb",
+            "short_name": "红河",
+            "id": "532500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/文山.jpg?x-oss-process=style/area_thumb",
+            "short_name": "文山",
+            "id": "532600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/西双版纳.jpg?x-oss-process=style/area_thumb",
+            "short_name": "西双版纳",
+            "id": "532800"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/大理.jpg?x-oss-process=style/area_thumb",
+            "short_name": "大理",
+            "id": "532900"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/德宏.jpg?x-oss-process=style/area_thumb",
+            "short_name": "德宏",
+            "id": "533100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/怒江.jpg?x-oss-process=style/area_thumb",
+            "short_name": "怒江",
+            "id": "533300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/迪庆.jpg?x-oss-process=style/area_thumb",
+            "short_name": "迪庆",
+            "id": "533400"
+        }
+    ],
+    "西藏": [
+        {
+            "icon": "https://file.ulvjia.com/area/拉萨.jpg?x-oss-process=style/area_thumb",
+            "short_name": "拉萨",
+            "id": "540100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/昌都.jpg?x-oss-process=style/area_thumb",
+            "short_name": "昌都",
+            "id": "542100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/山南.jpg?x-oss-process=style/area_thumb",
+            "short_name": "山南",
+            "id": "542200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/日喀则.jpg?x-oss-process=style/area_thumb",
+            "short_name": "日喀则",
+            "id": "542300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/那曲.jpg?x-oss-process=style/area_thumb",
+            "short_name": "那曲",
+            "id": "542400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/阿里.jpg?x-oss-process=style/area_thumb",
+            "short_name": "阿里",
+            "id": "542500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/林芝.jpg?x-oss-process=style/area_thumb",
+            "short_name": "林芝",
+            "id": "542600"
+        }
+    ],
+    "陕西": [
+        {
+            "icon": "https://file.ulvjia.com/area/西安.jpg?x-oss-process=style/area_thumb",
+            "short_name": "西安",
+            "id": "610100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/铜川.jpg?x-oss-process=style/area_thumb",
+            "short_name": "铜川",
+            "id": "610200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/宝鸡.jpg?x-oss-process=style/area_thumb",
+            "short_name": "宝鸡",
+            "id": "610300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/咸阳.jpg?x-oss-process=style/area_thumb",
+            "short_name": "咸阳",
+            "id": "610400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/渭南.jpg?x-oss-process=style/area_thumb",
+            "short_name": "渭南",
+            "id": "610500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/延安.jpg?x-oss-process=style/area_thumb",
+            "short_name": "延安",
+            "id": "610600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/汉中.jpg?x-oss-process=style/area_thumb",
+            "short_name": "汉中",
+            "id": "610700"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/榆林.jpg?x-oss-process=style/area_thumb",
+            "short_name": "榆林",
+            "id": "610800"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/安康.jpg?x-oss-process=style/area_thumb",
+            "short_name": "安康",
+            "id": "610900"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/商洛.jpg?x-oss-process=style/area_thumb",
+            "short_name": "商洛",
+            "id": "611000"
+        }
+    ],
+    "甘肃": [
+        {
+            "icon": "https://file.ulvjia.com/area/兰州.jpg?x-oss-process=style/area_thumb",
+            "short_name": "兰州",
+            "id": "620100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/嘉峪关.jpg?x-oss-process=style/area_thumb",
+            "short_name": "嘉峪关",
+            "id": "620200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/金昌.jpg?x-oss-process=style/area_thumb",
+            "short_name": "金昌",
+            "id": "620300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/白银.jpg?x-oss-process=style/area_thumb",
+            "short_name": "白银",
+            "id": "620400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/天水.jpg?x-oss-process=style/area_thumb",
+            "short_name": "天水",
+            "id": "620500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/武威.jpg?x-oss-process=style/area_thumb",
+            "short_name": "武威",
+            "id": "620600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/张掖.jpg?x-oss-process=style/area_thumb",
+            "short_name": "张掖",
+            "id": "620700"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/平凉.jpg?x-oss-process=style/area_thumb",
+            "short_name": "平凉",
+            "id": "620800"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/酒泉.jpg?x-oss-process=style/area_thumb",
+            "short_name": "酒泉",
+            "id": "620900"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/庆阳.jpg?x-oss-process=style/area_thumb",
+            "short_name": "庆阳",
+            "id": "621000"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/定西.jpg?x-oss-process=style/area_thumb",
+            "short_name": "定西",
+            "id": "621100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/陇南.jpg?x-oss-process=style/area_thumb",
+            "short_name": "陇南",
+            "id": "621200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/临夏.jpg?x-oss-process=style/area_thumb",
+            "short_name": "临夏",
+            "id": "622900"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/甘南.jpg?x-oss-process=style/area_thumb",
+            "short_name": "甘南",
+            "id": "623000"
+        }
+    ],
+    "青海": [
+        {
+            "icon": "https://file.ulvjia.com/area/西宁.jpg?x-oss-process=style/area_thumb",
+            "short_name": "西宁",
+            "id": "630100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/海东.jpg?x-oss-process=style/area_thumb",
+            "short_name": "海东",
+            "id": "632100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/海北.jpg?x-oss-process=style/area_thumb",
+            "short_name": "海北",
+            "id": "632200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/黄南.jpg?x-oss-process=style/area_thumb",
+            "short_name": "黄南",
+            "id": "632300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/海南藏族.jpg?x-oss-process=style/area_thumb",
+            "short_name": "海南藏族",
+            "id": "632500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/果洛.jpg?x-oss-process=style/area_thumb",
+            "short_name": "果洛",
+            "id": "632600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/玉树.jpg?x-oss-process=style/area_thumb",
+            "short_name": "玉树",
+            "id": "632700"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/海西.jpg?x-oss-process=style/area_thumb",
+            "short_name": "海西",
+            "id": "632800"
+        }
+    ],
+    "宁夏": [
+        {
+            "icon": "https://file.ulvjia.com/area/银川.jpg?x-oss-process=style/area_thumb",
+            "short_name": "银川",
+            "id": "640100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/石嘴山.jpg?x-oss-process=style/area_thumb",
+            "short_name": "石嘴山",
+            "id": "640200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/吴忠.jpg?x-oss-process=style/area_thumb",
+            "short_name": "吴忠",
+            "id": "640300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/固原.jpg?x-oss-process=style/area_thumb",
+            "short_name": "固原",
+            "id": "640400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/中卫.jpg?x-oss-process=style/area_thumb",
+            "short_name": "中卫",
+            "id": "640500"
+        }
+    ],
+    "新疆": [
+        {
+            "icon": "https://file.ulvjia.com/area/乌鲁木齐.jpg?x-oss-process=style/area_thumb",
+            "short_name": "乌鲁木齐",
+            "id": "650100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/克拉玛依.jpg?x-oss-process=style/area_thumb",
+            "short_name": "克拉玛依",
+            "id": "650200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/吐鲁番.jpg?x-oss-process=style/area_thumb",
+            "short_name": "吐鲁番",
+            "id": "652100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/哈密.jpg?x-oss-process=style/area_thumb",
+            "short_name": "哈密",
+            "id": "652200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/昌吉.jpg?x-oss-process=style/area_thumb",
+            "short_name": "昌吉",
+            "id": "652300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/博尔塔拉.jpg?x-oss-process=style/area_thumb",
+            "short_name": "博尔塔拉",
+            "id": "652700"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/巴音郭楞.jpg?x-oss-process=style/area_thumb",
+            "short_name": "巴音郭楞",
+            "id": "652800"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/阿克苏.jpg?x-oss-process=style/area_thumb",
+            "short_name": "阿克苏",
+            "id": "652900"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/克孜勒苏柯尔克孜.jpg?x-oss-process=style/area_thumb",
+            "short_name": "克孜勒苏柯尔克孜",
+            "id": "653000"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/喀什.jpg?x-oss-process=style/area_thumb",
+            "short_name": "喀什",
+            "id": "653100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/和田.jpg?x-oss-process=style/area_thumb",
+            "short_name": "和田",
+            "id": "653200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/伊犁.jpg?x-oss-process=style/area_thumb",
+            "short_name": "伊犁",
+            "id": "654000"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/塔城.jpg?x-oss-process=style/area_thumb",
+            "short_name": "塔城",
+            "id": "654200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/阿勒泰.jpg?x-oss-process=style/area_thumb",
+            "short_name": "阿勒泰",
+            "id": "654300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/石河子.jpg?x-oss-process=style/area_thumb",
+            "short_name": "石河子",
+            "id": "659001"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/阿拉尔.jpg?x-oss-process=style/area_thumb",
+            "short_name": "阿拉尔",
+            "id": "659002"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/图木舒克.jpg?x-oss-process=style/area_thumb",
+            "short_name": "图木舒克",
+            "id": "659003"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/五家渠.jpg?x-oss-process=style/area_thumb",
+            "short_name": "五家渠",
+            "id": "659004"
+        }
+    ],
+    "台湾": [
+        {
+            "icon": "https://file.ulvjia.com/area/台北.jpg?x-oss-process=style/area_thumb",
+            "short_name": "台北",
+            "id": "710100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/高雄.jpg?x-oss-process=style/area_thumb",
+            "short_name": "高雄",
+            "id": "710200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/台南.jpg?x-oss-process=style/area_thumb",
+            "short_name": "台南",
+            "id": "710300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/台中.jpg?x-oss-process=style/area_thumb",
+            "short_name": "台中",
+            "id": "710400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/金门.jpg?x-oss-process=style/area_thumb",
+            "short_name": "金门",
+            "id": "710500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/南投.jpg?x-oss-process=style/area_thumb",
+            "short_name": "南投",
+            "id": "710600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/基隆.jpg?x-oss-process=style/area_thumb",
+            "short_name": "基隆",
+            "id": "710700"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/新竹.jpg?x-oss-process=style/area_thumb",
+            "short_name": "新竹",
+            "id": "710800"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/嘉义.jpg?x-oss-process=style/area_thumb",
+            "short_name": "嘉义",
+            "id": "710900"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/新北.jpg?x-oss-process=style/area_thumb",
+            "short_name": "新北",
+            "id": "711100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/宜兰.jpg?x-oss-process=style/area_thumb",
+            "short_name": "宜兰",
+            "id": "711200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/新竹.jpg?x-oss-process=style/area_thumb",
+            "short_name": "新竹",
+            "id": "711300"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/桃园.jpg?x-oss-process=style/area_thumb",
+            "short_name": "桃园",
+            "id": "711400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/苗栗.jpg?x-oss-process=style/area_thumb",
+            "short_name": "苗栗",
+            "id": "711500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/彰化.jpg?x-oss-process=style/area_thumb",
+            "short_name": "彰化",
+            "id": "711700"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/嘉义.jpg?x-oss-process=style/area_thumb",
+            "short_name": "嘉义",
+            "id": "711900"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/云林.jpg?x-oss-process=style/area_thumb",
+            "short_name": "云林",
+            "id": "712100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/屏东.jpg?x-oss-process=style/area_thumb",
+            "short_name": "屏东",
+            "id": "712400"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/台东.jpg?x-oss-process=style/area_thumb",
+            "short_name": "台东",
+            "id": "712500"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/花莲.jpg?x-oss-process=style/area_thumb",
+            "short_name": "花莲",
+            "id": "712600"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/澎湖.jpg?x-oss-process=style/area_thumb",
+            "short_name": "澎湖",
+            "id": "712700"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/连江.jpg?x-oss-process=style/area_thumb",
+            "short_name": "连江",
+            "id": "712800"
+        }
+    ],
+    "香港": [
+        {
+            "icon": "https://file.ulvjia.com/area/香港岛.jpg?x-oss-process=style/area_thumb",
+            "short_name": "香港岛",
+            "id": "810100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/九龙.jpg?x-oss-process=style/area_thumb",
+            "short_name": "九龙",
+            "id": "810200"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/新界.jpg?x-oss-process=style/area_thumb",
+            "short_name": "新界",
+            "id": "810300"
+        }
+    ],
+    "澳门": [
+        {
+            "icon": "https://file.ulvjia.com/area/澳门半岛.jpg?x-oss-process=style/area_thumb",
+            "short_name": "澳门半岛",
+            "id": "820100"
+        },
+        {
+            "icon": "https://file.ulvjia.com/area/离岛.jpg?x-oss-process=style/area_thumb",
+            "short_name": "离岛",
+            "id": "820200"
+        }
+    ]
+}
